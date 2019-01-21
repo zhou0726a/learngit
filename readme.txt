@@ -1,1 +1,2 @@
-周小亮的第一个Git项目
+Git is a distributed version control system.
+Git is free software.
